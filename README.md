@@ -1,10 +1,10 @@
-# Fish-Classification-Project
-Balık türlerini sınıflandırmak için derin öğrenme modeli
-
-# Balık Türü Sınıflandırma Projesi
+# Fish-Classification-Project (Balık Türü Sınıflandırma Projesi)
+Balık türlerini sınıflandırmak için derin öğrenme modeli.
 
 ## Proje Amacı
 Bu proje, farklı balık türlerini sınıflandırmak için derin öğrenme tekniklerini kullanmaktadır.
+![Balık Sayısı](number-of-fishes.png)
+![Balık Türleri](type-of-fishes.png)
 
 ## Kullanılan Teknolojiler
 - Python
@@ -21,7 +21,6 @@ Bu proje, farklı balık türlerini sınıflandırmak için derin öğrenme tekn
 ## Sonuçlar
 - Eğitim doğruluğu: %96.04
 - Doğrulama doğruluğu: %98.68
-
 
 ### Confusion Matrix
 Aşağıda modelin test seti üzerindeki tahminlerinin gerçek sınıflarla karşılaştırıldığı confusion matrix bulunmaktadır:
