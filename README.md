@@ -25,7 +25,7 @@ Bu proje, farklı balık türlerini sınıflandırmak için derin öğrenme tekn
 
 ### Confusion Matrix
 Aşağıda modelin test seti üzerindeki tahminlerinin gerçek sınıflarla karşılaştırıldığı confusion matrix bulunmaktadır:
-![Confusion Matrix](confusion matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ## Model Doğruluğu ve Kayıp Grafiği
 Aşağıdaki grafikler, iki farklı modelin eğitim sürecindeki doğruluk ve kayıp değerlerini göstermektedir.
