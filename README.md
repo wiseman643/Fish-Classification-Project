@@ -21,6 +21,12 @@ Bu proje, farklı balık türlerini sınıflandırmak için derin öğrenme tekn
 ## Sonuçlar
 - Eğitim doğruluğu: %96.04
 - Doğrulama doğruluğu: %98.68
+- 
+## Model Doğruluğu ve Kayıp Grafiği
+Aşağıdaki grafikler, iki farklı modelin eğitim sürecindeki doğruluk ve kayıp değerlerini göstermektedir.
+
+![Model Doğruluğu](model_accuracy.png)
+![Model Kaybı](model_loss.png)
 
 ## Kaggle Notebook Linki
 [Kaggle Notebook](https://www.kaggle.com/code/yasincanyilmazoglu/fishnclass)
